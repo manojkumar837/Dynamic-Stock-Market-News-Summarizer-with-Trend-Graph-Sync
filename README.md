@@ -100,17 +100,11 @@ Dynamic-Stock-Market-News-Summarizer-with-Trend-Graph-Sync/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of your dashboard here.
-
----
-
 ## 👨‍💻 Author
 
 **Manoj Kumar M**
 
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: www.linkedin.com/in/manojkumar-ds08
 - GitHub: https://github.com/manojkumar837
 
 ---
